@@ -1,2 +1,2 @@
 # highfemme
-podcast
+a website in progress for the high femme podcast
